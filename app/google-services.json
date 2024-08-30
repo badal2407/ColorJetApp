@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "416593344194",
+    "project_id": "colorjet-670bc",
+    "storage_bucket": "colorjet-670bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416593344194:android:87eba83d872a337814ed5b",
+        "android_client_info": {
+          "package_name": "com.das_develop.colorjet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdAJb4JG4gm4k8OGo5bribnTE1lVe0-6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
